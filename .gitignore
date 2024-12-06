@@ -1,1 +1,10 @@
 __pycache__
+
+*.bak
+*.tmp
+*~
+
+Session.vim
+.vim/
+.viminfo
+.vimswap/
